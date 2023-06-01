@@ -1,3 +1,3 @@
 # GasiorowskiPasswordGen
 
-![] (./Assets/rmeimg/PassGen P1.png)
+![](.\Assets\rmeimg\PassGen P1.png) 
