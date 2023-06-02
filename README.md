@@ -17,6 +17,6 @@ Whether to include numerical characters
 Whether to include special characters
 ![](./Assets/rmeimg/PassGenP6.png)
 ### After selecting their desired parameters the user will then have a password generated for them
-![](.Assets/rmeimg/PassGenDone.png)
+![](./Assets/rmeimg/PassGenDone.png)
 
 A working link for this application is:
