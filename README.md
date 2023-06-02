@@ -19,4 +19,4 @@ Whether to include special characters
 ### After selecting their desired parameters the user will then have a password generated for them
 ![](./Assets/rmeimg/PassGenDone.png)
 
-A working link for this application is:
+A working link for this application is: https://jgatz123.github.io/GasiorowskiPasswordGen/
